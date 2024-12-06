@@ -1,3 +1,5 @@
+DROP DATABASE IF EXISTS result;
+CREATE DATABASE result;
 use result;
 
 -- 1. Drop existing tables to avoid duplication or conflicts
