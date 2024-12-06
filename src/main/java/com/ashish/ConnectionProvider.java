@@ -10,7 +10,7 @@ public class ConnectionProvider {
    public static Connection getCon() {
       try {
          Class.forName("com.mysql.cj.jdbc.Driver");
-         Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/result", "root", "ashish420");
+         Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/result", "root", "password");
          return con;
       } catch (Exception var1) {
          System.out.println(var1);
