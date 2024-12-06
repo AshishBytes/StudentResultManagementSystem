@@ -8,7 +8,7 @@
 	<div style="width:80%;float:left"><center><h1 style="margin-top:25px";><b>Amity University Gwalior</h1></center></div>
 	<div style="width:10%;float:left"><img src="../assets/images/atul1.png" align="right" margin-top="1px" width="100" height="100"></div>
 </div>
-<div class="w3-container">`
+<div class="w3-container">
   <div class="w3-bar w3-black">
     <button class="w3-bar-item w3-button tablink w3-red" onclick="openCity(event,'London')">Add New Student</button>
     <button class="w3-bar-item w3-button tablink" onclick="openCity(event,'Paris')">Insert New Result</button>
